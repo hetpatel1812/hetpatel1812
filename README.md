@@ -38,7 +38,7 @@ I’m passionate about **Artificial Intelligence, Machine Learning, and Data Sci
 ---
 
 ## 🌐 **Connect with Me**
-- 📧 Email: [hetp3286@gmail.com](mailto:your.email@example.com)  
+- 📧 Email: [Gmail](hetp3286@gmail.com)  
 - 💼 LinkedIn:[Linkdin](www.linkedin.com/in/het-patel-94b334284)  
 
 ---
