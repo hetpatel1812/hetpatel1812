@@ -1,6 +1,7 @@
-# Hi 👋, I'm Het Patel
+<h1 align="center">Hi 👋, I'm Het Patel</h1>
 
-### 💡 A passionate AI/ML enthusiast and aspiring developer
+<h3 align="center">💡 A passionate AI/ML enthusiast and aspiring developer</h3>
+
 
 ![AI coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
