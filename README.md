@@ -1,4 +1,4 @@
-#Hi 👋, I'm Het Patel
+### Hi 👋, I'm Het Patel
 
 ### 💡 A passionate AI/ML enthusiast and aspiring developer
 
