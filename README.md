@@ -1,3 +1,25 @@
+# Hi 👋, I'm Het Patel
+
+### 💡 A passionate AI/ML enthusiast and aspiring developer
+
+![AI coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on Machine Learning tasks and projects  
+- 🌱 I’m learning AI, ML, and Deep Learning  
+- 🤖 I built an AI assistant to automate my PC  
+- 👯 I’m looking to collaborate on AI or automation projects  
+- 💬 Ask me about Python, NumPy, Pandas, and AI tools  
+- 📫 Reach me at: **hetpatel.dev@gmail.com**  
+- ⚡ Fun fact: I talk to my PC like Tony Stark 😄  
+
+---
+
+
+
 ## 🛠️ Languages & Tools
 
 <p align="left">
@@ -11,3 +33,37 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
+
+---
+
+### 📈 GitHub Stats
+
+![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetPatel1812&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hetPatel1812&theme=radical)
+
+---
+### ✨ Projects I'm Proud Of
+
+- 🔹 **Jarvis** – AI Assistant that operates my PC with voice commands  
+- 🔹 **School Monitoring System** – Web-based school activity & attendance tracker  
+- 🔹 **ML-Tasks Repo** – Daily machine learning practice with well-organized folders  
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/HetPatel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 💬 Quote I Believe In
+
+> **"Consistency beats motivation. Let’s keep building 🚀"**
+
