@@ -45,6 +45,21 @@
 ![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetPatel1812&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hetPatel1812&theme=radical)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hetpatel47&show_icons=true&theme=radical" alt="Het's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel47&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetpatel47&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
 ---
 ### ✨ Projects I'm Proud Of
 
