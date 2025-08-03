@@ -42,8 +42,8 @@
 
 ### 📈 GitHub Stats
 
-![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetPatel1812&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hetPatel1812&theme=radical)
+![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetpatel1812&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hetpatel1812&theme=radical)
 
 ---
 ### ✨ Projects I'm Proud Of
