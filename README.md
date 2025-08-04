@@ -52,7 +52,7 @@
 
 - 🔹 **Jarvis** – AI Assistant that operates my PC with voice commands  
 - 🔹 **School Monitoring System** – Web-based school activity & attendance tracker  
-- 🔹 **ML-Tasks Repo** – Daily machine learning practice with well-organized folders  
+- 🔹 **MachineLearning-Track** – Daily machine learning practice with well-organized folders  
 
 ---
 
