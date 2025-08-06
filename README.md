@@ -44,7 +44,7 @@
 
 ### 📈 GitHub Stats
 
-![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetpatel1812&show_icons=true&theme=swift&width=500)[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=hetpatel1812&theme=swift&hide_border=true&border_radius=8&card_width=500)](https://git.io/streak-stats)
+![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetpatel1812&show_icons=true&theme=swift&width=600)[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=hetpatel1812&theme=swift&hide_border=true&border_radius=8&card_width=500)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hetpatel1812&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
