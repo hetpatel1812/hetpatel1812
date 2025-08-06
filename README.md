@@ -45,7 +45,7 @@
 ### 📈 GitHub Stats
 
 ![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetpatel1812&show_icons=true&theme=radical)  
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=hetpatel1812&theme=swift&hide_border=true&border_radius=8&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=hetpatel1812&theme=swift&hide_border=true&border_radius=8&card_width=1000)](https://git.io/streak-stats)
 
 
 
