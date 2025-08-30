@@ -57,7 +57,7 @@
 
 ---
 ## 🎓 Certifications
-[![Credly Badge](https://images.credly.com/size/110x110/<your-badge-image>.png)](<your-credly-link>)
+[![Credly Badge](https://images.credly.com/size/110x110/<http://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png>.png)](https://www.credly.com/badges/d78e35a0-e676-4f2c-88f0-1bd1a87d765c/public_url)
 **Artificial Intelligence Fundamentals** – IBM SkillsBuild
 
 ---
