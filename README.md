@@ -56,6 +56,11 @@
 - 🔹 **MachineLearning-Track** – Daily machine learning practice with well-organized folders  
 
 ---
+## 🎓 Certifications
+[![Credly Badge](https://images.credly.com/size/110x110/<your-badge-image>.png)](<your-credly-link>)
+**Artificial Intelligence Fundamentals** – IBM SkillsBuild
+
+---
 
 ## 🔗 Connect With Me
 
