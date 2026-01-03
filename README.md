@@ -2,6 +2,16 @@
 
 <h3 align="center">💡 A passionate AI/ML enthusiast and aspiring developer</h3>
 
+<h2 align="center">
+  🌐 Explore My Portfolio  
+</h2>
+
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI coding gif" width="70%" />
