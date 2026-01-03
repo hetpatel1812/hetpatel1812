@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://hetpatel1812.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
