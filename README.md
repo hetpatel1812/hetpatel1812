@@ -46,7 +46,7 @@
 
 ### 📈 GitHub Stats
 
-![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetpatel1812&show_icons=true&theme=swift)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hetpatel1812?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=hetpatel1812&theme=swift&hide_border=true)](https://git.io/streak-stats)
 
