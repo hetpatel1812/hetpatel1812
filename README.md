@@ -46,21 +46,12 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hetpatel1812&show_icons=true&theme=swift" />
-</p>
+![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetpatel1812&show_icons=true&theme=swift)
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://git-hub-streak-stats.vercel.app?user=hetpatel1812&theme=swift&hide_border=true&border_radius=8&card_width=500" />
-  </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=hetpatel1812&theme=swift&hide_border=true)](https://git.io/streak-stats)
 
-<p align="center">
-  <a href="https://github.com/hetpatel1812/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hetpatel1812&theme=github-compact" />
-  </a>
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hetpatel1812&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
