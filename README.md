@@ -26,7 +26,7 @@
 - 🤖 I built an AI assistant to automate my PC  
 - 👯 I’m looking to collaborate on AI or automation projects  
 - 💬 Ask me about Python, NumPy, Pandas, and AI tools  
-- 📫 Reach me at: **hetpatel3286@gmail.com**  
+- 📫 Reach me at: **hetpce2005@gmail.com**  
 - ⚡ Fun fact: I talk to my PC like Tony Stark 😄  
 
 ---
