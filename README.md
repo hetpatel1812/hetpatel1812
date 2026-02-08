@@ -61,11 +61,9 @@
 
 ---
 ### ✨ Projects I'm Proud Of
-
-- 🔹 **Jarvis** – AI Assistant that operates my PC with voice commands  
+- 🔹 **FitPulse Health Anomaly Detection** – A Python-based system for detecting anomalies in fitness tracker data  
 - 🔹 **School Monitoring System** – Web-based school activity & attendance tracker  
 - 🔹 **MachineLearning-Track** – Daily machine learning practice with well-organized folders  
-
 ---
 ## 🎓 Certifications  
 
