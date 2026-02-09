@@ -3,7 +3,7 @@
 <h3 align="center">💡 A passionate AI/ML enthusiast and aspiring developer</h3>
 
 <h2 align="center">
-  🌐 Explore My Portfolio  
+  🌐 Explore My Portfolio
 </h2>
 <p align="center">
   <a href="https://hetpatel1812.github.io/Portfolio/" target="_blank">
