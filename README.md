@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Het Patel</h1>
 
-<h3 align="center">💡 A passionate AI/ML enthusiast and aspiring developer</h3>
+<h3 align="center">💡 A passionate AI/ML enthusiast and aspiring developer</h3>           
 
 <h2 align="center">
   🌐 Explore My Portfolio
