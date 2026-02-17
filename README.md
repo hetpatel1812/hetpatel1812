@@ -54,7 +54,7 @@
 
 ### 📈 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hetpatel1812?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card) [![GitHub Streak](https://streak-stats.demolab.com?user=hetpatel1812&card_width=453&card_height=200)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hetpatel1812?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card) [![GitHub Streak](https://streak-stats.demolab.com?user=hetpatel1812&card_width=450&card_height=200)](https://git.io/streak-stats)
 [![Het's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hetpatel1812&theme=github-dark-dimmed)](https://github.com/hetpatel1812/github-readme-activity-graph)
 
 ---
