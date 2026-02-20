@@ -54,7 +54,7 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" alt="Cursor" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="80" height="80"/>
   </p>
----
+
 
 ### 📈 GitHub Stats
 
