@@ -1,54 +1,22 @@
-<!-- ================= HERO SECTION (Ultra Dark Premium) ================= -->
+<!-- ================= HERO SECTION (GitHub Supported Premium) ================= -->
 
-<div
-     style="
-     padding: 70px 20px;
-     border-radius: 20px;
-     background: linear-gradient(
-        135deg,
-        #02030a 0%,
-        #050816 25%,
-        #0c0a1f 50%,
-        #140a2e 75%,
-        #1a1b4b 100%
-     );
-     background-size: 200% 200%;
-     animation: gradientMove 14s ease infinite;
-     box-shadow: 0 0 60px rgba(76,29,149,0.25);
-     ">
-<div align="center">
-  <h1 style="font-size: 3rem; font-weight: 800; color: white;">
-    Hi 👋, I'm <span style="color:#8b5cf6;">Het Patel</span>
-  </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02030a,25:050816,50:0c0a1f,75:140a2e,100:1a1b4b&height=250&section=header&text=Hi%20👋,%20I'm%20Het%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=💡%20A%20passionate%20AI/ML%20enthusiast%20and%20aspiring%20developer&descAlignY=60&descAlign=50" />
+</p>
 
-  <h3 style="color: #94a3b8;">
-    💡 A passionate AI/ML enthusiast and aspiring developer
-  </h3>          
-
-  <h2 style="color:white;">
-    🌐 Explore My Portfolio
-  </h2>
+<p align="center">
   <a href="https://hetpatel1812.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+</p>
 
-  <br>
-  <br>
-
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
        width="70%" 
-       style="border-radius:20px; box-shadow: 0 0 30px rgba(99,102,241,0.4);" />
+       style="border-radius:20px;" />
+</p>
 
-<style>
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
-</div>
-
-<br>
+---
 
 ## 🚀 About Me
 
