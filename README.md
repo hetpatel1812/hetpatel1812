@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="80" height="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="80" height="80"/>
-  <img src="./assets/google-antigravity-logo.jpg" alt="Google Antigravity" width="80" height="80"/>
+  <img src="https://github.com/hetpatel1812/hetpatel1812/blob/main/assets/download.jpg" alt="Google Antigravity" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" alt="Cursor" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="80" height="80"/>
   </p>
