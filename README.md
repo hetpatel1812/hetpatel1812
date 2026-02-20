@@ -1,94 +1,160 @@
-<h1 align="center">Hi 👋, I'm Het Patel</h1>
+<!-- ================= HERO SECTION (Ultra Dark Premium) ================= -->
 
-<h3 align="center">💡 A passionate AI/ML enthusiast and aspiring developer</h3>          
+<div
+     style="
+     padding: 70px 20px;
+     border-radius: 20px;
+     background: linear-gradient(
+        135deg,
+        #02030a 0%,
+        #050816 25%,
+        #0c0a1f 50%,
+        #140a2e 75%,
+        #1a1b4b 100%
+     );
+     background-size: 200% 200%;
+     animation: gradientMove 14s ease infinite;
+     box-shadow: 0 0 60px rgba(76,29,149,0.25);
+     ">
+<div align="center">
+  <h1 style="font-size: 3rem; font-weight: 800; color: white;">
+    Hi 👋, I'm <span style="color:#8b5cf6;">Het Patel</span>
+  </h1>
 
-<h2 align="center">
-  🌐 Explore My Portfolio
-</h2>
-<p align="center"> 
+  <h3 style="color: #94a3b8;">
+    💡 A passionate AI/ML enthusiast and aspiring developer
+  </h3>          
+
+  <h2 style="color:white;">
+    🌐 Explore My Portfolio
+  </h2>
   <a href="https://hetpatel1812.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-</p>
 
+  <br>
+  <br>
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+       width="70%" 
+       style="border-radius:20px; box-shadow: 0 0 30px rgba(99,102,241,0.4);" />
+
+<style>
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
+</div>
+
+<br>
+
+## 🚀 About Me
+
+- 🎯 Focused on Machine Learning & Deep Learning  
+- 📊 Strong foundation in data analysis and model building  
+- 🧠 Building ML models from scratch with strong conceptual clarity  
+- 🏗️ Experience designing backend architecture systems   
+- 📫 Reach me at: **hetpce2005@gmail.com**  
+- ⚡ Consistency > Motivation  
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI coding gif" width="70%" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg" width="55"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg" width="55"/>
+  <img src="https://github.com/hetpatel1812/hetpatel1812/blob/main/assets/PowerBI.jpg" width="55"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
+  <img src="https://github.com/hetpatel1812/hetpatel1812/blob/main/assets/Antigravity.jpg" width="55"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+
 </p>
 
+---
+
+# 🏆 Featured Projects
+
+🔹 **AirAware – Air Quality Prediction & Analysis System**  
+> A comprehensive Air Quality Index (AQI) monitoring web application for Indian cities. Built with Flask, AirAware provides pollutant data, AQI-related news, and an AI-powered chatbot.
+
+🔹 **FitPulse – Health Anomaly Detection System**  
+> ML-based anomaly detection system for fitness tracker data using statistical & model-based techniques.
+
+🔹 **School Monitoring System – Backend Architecture**  
+> Role-based academic monitoring platform with authentication, attendance tracking, structured database schema, and reporting system design.
+
+🔹 **MachineLearning-Track Repository**  
+> Structured daily ML implementation practice with clean code organization and strong conceptual depth.
 
 ---
 
-### 🚀 About Me
+# 📈 GitHub Stats
 
-- 🔭 I’m currently working on Machine Learning tasks and projects  
-- 🌱 I’m learning AI, ML, and Deep Learning  
-- 🤖 I built an AI assistant to automate my PC  
-- 👯 I’m looking to collaborate on AI or automation projects  
-- 💬 Ask me about Python, NumPy, Pandas, and AI tools  
-- 📫 Reach me at: **hetpce2005@gmail.com**  
-- ⚡ Fun fact: I talk to my PC like Tony Stark 😄  
+<p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/hetpatel1812?cardType=github&theme=github-dark&preferLogin=false" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com?user=hetpatel1812&theme=github-dark-dimmed" />
+  </a>
+</p>
 
----
-
-
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/flask.svg" alt="Flask" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="80" height="80"/>
-  <img src="https://github.com/hetpatel1812/hetpatel1812/blob/main/assets/PowerBI.jpg" alt="Power BI" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg" alt="PyTorch" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg" alt="Streamlit" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="80" height="80"/>
-  <img src="https://github.com/hetpatel1812/hetpatel1812/blob/main/assets/Antigravity.jpg" alt="Google Antigravity" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" alt="Cursor" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="80" height="80"/>
-  </p>
-
-
-### 📈 GitHub Stats
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hetpatel1812?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card) [![GitHub Streak](https://streak-stats.demolab.com?user=hetpatel1812&theme=github-dark-dimmed&card_width=450&card_height=200)](https://git.io/streak-stats)
-[![Het's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hetpatel1812&theme=github-dark-dimmed)](https://github.com/hetpatel1812/github-readme-activity-graph)
-
----
-### ✨ Projects I'm Proud Of
-- 🔹 **FitPulse Health Anomaly Detection** – A Python-based system for detecting anomalies in fitness tracker data  
-- 🔹 **School Monitoring System** – Web-based school activity & attendance tracker  
-- 🔹 **MachineLearning-Track** – Daily machine learning practice with well-organized folders  
----
-## 🎓 Certifications  
-
-<a href="https://www.credly.com/badges/d78e35a0-e676-4f2c-88f0-1bd1a87d765c/public_url" target="_blank">
-  <img src="https://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="IBM AI Fundamentals" width="120"/>
-</a>
-
-**Artificial Intelligence Fundamentals** – IBM SkillsBuild  
+<p align="center">
+  <a href="https://github.com/hetpatel1812/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hetpatel1812&theme=github-dark-dimmed" />
+  </a>
+</p>
 
 ---
 
-## 🔗 Connect With Me
+# 🎓 Certifications  
+- **Machine Learning & Data Science – GeeksforGeeks**
+- **Python for Data Science – NPTEL — IIT**
+- **Artificial Intelligence Fundamentals – IBM SkillsBuild**
+- **Python Foundation – Infosys Springboard**
 
-<p align="left">
+---
+
+# 🎯 2026 Goals
+
+- 📌 Master Deep Learning Architectures  
+- 📌 Build Production-Ready ML Pipelines  
+- 📌 Contribute to Open Source  
+- 📌 Publish a Research-Oriented ML Project  
+
+---
+
+# 🔗 Connect With Me
+
+<p>
   <a href="https://www.linkedin.com/in/het-patel-94b334284/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="mailto:hetpce2005@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/>
   </a>
+</p>
 
 ---
 
-### 💬 Quote I Believe In
+## 💬 Personal Motto
 
-**"Consistency beats motivation. Let’s keep building 🚀"**
+**"Consistency compounds. Skill builds silently. Results speak loudly." 🚀**
