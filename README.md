@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02030a,25:050816,50:0c0a1f,75:140a2e,100:1a1b4b&height=250&section=header&text=Hi%20👋,%20I'm%20Het%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=💡%20A%20passionate%20AI/ML%20enthusiast%20and%20aspiring%20developer&descAlignY=60&descAlign=50" />
 </p>
-
 <p align="center">
   <a href="https://hetpatel1812.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
