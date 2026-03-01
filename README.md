@@ -81,7 +81,7 @@
   </a>
   
   <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com?user=hetpatel1812&theme=github-dark-dimmed" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=hetpatel1812&theme=github-dark-dimmed" />
   </a>
 </p>
 
