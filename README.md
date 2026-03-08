@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVtZmg3d2JpZjBycWk3bnQzZzRkMnMzdjQ5c2Vqa3V4YXE4cDRvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hJ9ehuvqmJbrgZLAwB/giphy.gif" 
-       width="80%" 
+       hight ="60%"width="80%"
        style="border-radius:20px;" />
 </p>
 
