@@ -18,14 +18,12 @@
 
 ## 🚀 About Me
 
-- 🎯 Focused on Machine Learning & Deep Learning  
-- 📊 Strong foundation in data analysis and model building  
-- 🧠 Building ML models from scratch with strong conceptual clarity  
-- 🏗️ Experience designing backend architecture systems   
-- 📫 Reach me at: **hetpce2005@gmail.com**  
-- ⚡ Consistency > Motivation  
-
----
+- 🎓 Final-year Computer Engineering student at LDRP-ITR, Gandhinagar
+- 🤖 Building ML systems using Python, Scikit-learn, Flask, and Streamlit
+- 📚 Currently learning Deep Learning with PyTorch
+- 💼 Python Programming Intern at Infosys Springboard (Sep–Nov 2025)
+- 📫 Reach me at: **hetpce2005@gmail.com**
+- ⚡ Consistency > Motivation
 
 # 🛠️ Tech Stack
 
