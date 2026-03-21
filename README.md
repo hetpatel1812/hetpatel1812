@@ -64,9 +64,6 @@
 🔹 **FitPulse – Health Anomaly Detection System**  
 > ML-based anomaly detection system for fitness tracker data using statistical & model-based techniques.
 
-🔹 **School Monitoring System – Backend Architecture**  
-> Role-based academic monitoring platform with authentication, attendance tracking, structured database schema, and reporting system design.
-
 🔹 **MachineLearning-Track Repository**  
 > Structured daily ML implementation practice with clean code organization and strong conceptual depth.
 
