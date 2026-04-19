@@ -1,7 +1,7 @@
 <!-- ================= HERO SECTION (GitHub Supported Premium) ================= -->
              
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:02030a,25:050816,50:0c0a1f,75:140a2e,100:1a1b4b&height=250&section=header&text=Hi+👋,+I'm+Het+Patel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🤖+AI/ML+Engineer+|+Python+•+ML+Pipelines+•+Data+Science&descAlignY=60&descAlign=50)
-     
+       
 <p align="center">
   <a href="https://hetpatel1812.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
