@@ -1,4 +1,4 @@
-<!-- ================= HERO SECTION (GitHub Supported Premium) ================= -->
+<!-- ================= HERO SECTION (GitHub Supported Premium) ================= -->. 
              
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:02030a,25:050816,50:0c0a1f,75:140a2e,100:1a1b4b&height=250&section=header&text=Hi+👋,+I'm+Het+Patel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🤖+AI/ML+Engineer+|+Python+•+ML+Pipelines+•+Data+Science&descAlignY=60&descAlign=50)
        
